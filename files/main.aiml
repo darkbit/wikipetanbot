@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<!-- insert your AIML categories here -->
+	
+	
+	
+	
+	
+<category>
+	 <pattern>hi</pattern>
+	 <template>hi</template>
+    </category>
+<category>
+    <pattern>who are you</pattern>
+    <template>i am a botð</template>
+</category>
+<category>
+    <pattern>What</pattern>
+    <template>i am not a humanð</template>
+</category>
+</aiml>
